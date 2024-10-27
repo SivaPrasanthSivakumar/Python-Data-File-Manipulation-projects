@@ -1,0 +1,4 @@
+Apple                     5.00
+Laptop                  100.00
+Phone                   150.00
+Total:                  255.00

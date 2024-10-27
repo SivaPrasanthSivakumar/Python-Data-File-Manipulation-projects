@@ -1,0 +1,8 @@
+Name.        ID.    (Test1-Score) (Test2- Score) (HW- Score) (Project-Score)
+
+James Bond. : 122255 : 90. : 90. : 90. : 90 
+Peter Pan.  : 122256 : 85. : 85. : 85. : 85
+Thomas King.: 122257 : 80. : 80. : 80. : 80
+Sam Patel.  : 122258 : 70. : 70. : 70. : 70
+Tong Wang.  : 122259 : 55. : 65  : 60. : 60
+Joe Doe.    : 122252 : 45. : 58. : 70  : 60
