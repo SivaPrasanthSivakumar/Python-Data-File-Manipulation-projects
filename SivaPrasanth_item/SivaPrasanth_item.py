@@ -14,7 +14,8 @@ for line in infile:
         
         outfile.write("%-20s%10.2f\n" % (item, price))
 
-outfile.write("%-20s%10.2f\n" % ("Total:", total))
 
+outfile.write("%-20s%10.2f\n" % ("Total:", total))
+print("%-20s%10.2f\n" % ("Total:", total))
 infile.close()
 outfile.close()
